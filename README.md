@@ -11,9 +11,8 @@ using System.Collections.Generic;
 namespace CSharp_Shell{
     public class Program {
         public static void Main(){
-            Console.Write("Enter your name : ");
-            String name = Console.ReadLine();
-            Console.WriteLine("Hello " + name + " !");
+			Console.Write("Enter your name : ");
+			Console.WriteLine("Hello " +  Console.ReadLine() + " !");
         }
     }
 }
