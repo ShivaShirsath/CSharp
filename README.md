@@ -17,7 +17,7 @@ namespace CSharp_Shell{
 }
 ```
 > OutPut :
-```exe
+```
 Enter your name : Shiva
 Hello Shiva !
 ```
